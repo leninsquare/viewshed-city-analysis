@@ -1,0 +1,15 @@
+[general]
+name=Urban Viewshed Calculation
+icon=icon.png
+qgisMinimumVersion=3.32
+description=Calculates cumulative visibility using terrain and building heights
+version=1.0
+author=leninsquare
+email=.
+about=Creates a visibility raster from a DEM and polygon building heights, using observer points placed along building boundaries.
+category=Raster
+tags=viewshed,visibility,DEM,buildings,raster
+experimental=True
+deprecated=False
+hasProcessingProvider=no
+server=False
